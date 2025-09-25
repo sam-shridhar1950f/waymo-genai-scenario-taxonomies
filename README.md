@@ -10,7 +10,7 @@ Inspiration: I started this project after reading more about Waymo's [safety fra
 
 Open up ```scenarios.ipynb``` to read through the project. 
 
-## Quick Highlighs
+## Quick Highlights
 
 This prototype shows how structured GenAI outputs can not only label and summarize events at scale, but also surface edge cases and interesting scenarios.
 
