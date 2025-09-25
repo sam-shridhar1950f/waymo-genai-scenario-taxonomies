@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ptYkebA35ejXSE1y4IZibZv2nYMmdnmY?usp=sharing]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ptYkebA35ejXSE1y4IZibZv2nYMmdnmY?usp=sharing)
 # Inspiration & Description
 This notebook demonstrates a tiny end-to-end pipeline that automates scenario taxonomy using GenAI from sample testing data in the [Waymo Motion Dataset](https://waymo.com/open/).
 
