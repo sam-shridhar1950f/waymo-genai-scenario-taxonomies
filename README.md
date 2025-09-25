@@ -20,7 +20,7 @@ This prototype shows how structured GenAI outputs can not only label and summari
   **Min dist:** 9.43 m · **Headway:** 0.22 s · **Ahead frac:** 1.00  
 
 - **Pedestrian close-call scenario surfaced**  
-  A `crossing_paths` event where the self-driving vehicle came within ~3 m of a pedestrian, with TTC ≈ 1.8 s. A clear-cut VRU edge case that would need review:  
+  A `crossing_paths` event where the self-driving vehicle came within ~3 m of a pedestrian, with TTC (time-to-collision) ≈ 1.8 s. A clear-cut VRU edge case that would need review:  
   > *“A stationary vehicle had a close interaction with a pedestrian who was moving and potentially crossing its path, with a minimum distance of 3.05 meters and a time-to-collision of 1.79 seconds.”*  
   **Min dist:** 3.05 m · **TTC:** 1.79 s · **Oncoming frac:** 0.55  
 
