@@ -15,12 +15,12 @@ Open up ```scenarios.ipynb``` to read through the project.
 This prototype shows how structured GenAI outputs can not only label and summarize events at scale, but also surface edge cases and interesting scenarios.
 
 - **Potentially dangerous tail-lapse caught**  
-  Recognized a `following_too_close` event with **0.22 s headway** while the ego vehicle was moving ~13.4 m/s. Exactly the sort of split-second risk worth surfacing:  
+  Recognized a `following_too_close` event with **0.22 s headway** while the self-driving vehicle was moving ~13.4 m/s. Exactly the sort of split-second risk worth surfacing:  
   > *“The self vehicle, traveling at 13.43 m/s, followed another vehicle, traveling at 2.66 m/s, with a dangerously low headway of 0.22 seconds, indicating a following too close event.”*  
   **Min dist:** 9.43 m · **Headway:** 0.22 s · **Ahead frac:** 1.00  
 
 - **Pedestrian close-call scenario surfaced**  
-  A `crossing_paths` event where the ego vehicle came within ~3 m of a pedestrian, with TTC ≈ 1.8 s. A clear-cut VRU edge case that would need review:  
+  A `crossing_paths` event where the self-driving vehicle came within ~3 m of a pedestrian, with TTC ≈ 1.8 s. A clear-cut VRU edge case that would need review:  
   > *“A stationary vehicle had a close interaction with a pedestrian who was moving and potentially crossing its path, with a minimum distance of 3.05 meters and a time-to-collision of 1.79 seconds.”*  
   **Min dist:** 3.05 m · **TTC:** 1.79 s · **Oncoming frac:** 0.55  
 
