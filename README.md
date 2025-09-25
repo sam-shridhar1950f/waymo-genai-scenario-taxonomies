@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ptYkebA35ejXSE1y4IZibZv2nYMmdnmY?usp=sharing]
 # Inspiration & Description
 This notebook demonstrates a tiny end-to-end pipeline that automates scenario taxonomy using GenAI from sample testing data in the [Waymo Motion Dataset](https://waymo.com/open/).
 
@@ -7,4 +8,4 @@ By introducing GenAI at the summarization step, we scalably turn raw kinematics 
 
 Inspiration: I started this project after reading more about Waymo's [safety framework](https://waymo.com/blog/2020/10/sharing-our-safety-framework) and thinking about how scenario taxonomy might use GenAI as Waymo rapidly scales its worldwide footprint (and thus testing).
 
-Open up ```scenarios.ipynb``` to read through the project.
+Open up ```scenarios.ipynb``` to read through the project. 
